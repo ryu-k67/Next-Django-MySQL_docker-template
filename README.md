@@ -1,23 +1,13 @@
-# HistoryOverview
-ユーザーの歴史をまとめるWebアプリケーション
+# Next-Django-MySQL_docker-template
 
-## 使用予定技術
 - フロントエンド：Next.js
 - バックエンド&emsp;：Django
 - データベース&emsp;：MySQL
 - インフラ&emsp;&emsp;&emsp;：Docker
+  
+上記を設定したdockerのテンプレート
 
-### 概要
-- 自分年表
-- 自己PR
-- 取り組んだこと  
-・  
-・  
-・  
-などの機能を含む自己分析ツールを目指す
-
-
-### コマンド
+## コマンド
 docker-compose build  
 - コンテナ作成・起動  
 docker-compose up -d  
